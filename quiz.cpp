@@ -1,3 +1,12 @@
+/*
+
+QUIZ in C++
+2019 by
+Ben-Tommy Eriksen
+ben@nornet.no
+
+*/
+
 #include <vector>
 #include <string>
 #include <sstream>

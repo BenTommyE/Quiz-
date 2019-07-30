@@ -1,2 +1,2 @@
 # Quiz-
-Simple com and line quiz in C++
+Simple terminal comandline quiz in C++
